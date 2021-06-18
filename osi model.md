@@ -4,5 +4,5 @@
 ## List of OSI Model
 - [Application Layer] (#application-layer)
 
-<img src="/home/salekin/Pictures/osi.png"  />
+<img src="images/osi.png"  />
 
