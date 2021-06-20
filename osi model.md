@@ -2,8 +2,8 @@
 > The Open Systems Interconnection model is responsible for creating a communication path over a network between two systems. It uses seven layers and those seven layers have some unique responsibility to make a digital request to convert an analog and analog to digital so that communication happens. 
 
 ## List of OSI Model
-- [Application Layer] (#application-layer)
-
+- ### Application Layer
+- ### Presentation Layer
 <img src="images/osi.png" />
 
 ## Application Layer
